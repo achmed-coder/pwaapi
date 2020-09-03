@@ -1,0 +1,21 @@
+{
+ "name": "Prosigab.info",
+ "short_name": "PROSIGAB",
+ "description": "Laporan Hujan BPBD Kabupaten Probolinggo",
+ "lang": "en-US",
+ "dir": "ltr",
+ "theme_color": "#414f57",
+ "start_url": ".",
+ "background_color": "#000",
+ "display": "standalone",
+ "orientation": "portrait-primary",
+ "icons": [{
+   "src": "http://prosigab.info/img/Covid19/logo.png",
+   "sizes": "72x72",
+   "type": "image/png"
+  }, {
+   "src": "http://prosigab.info/img/Covid19/logo.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }]
+}
